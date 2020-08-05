@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Alt text]()
-![Alt text]https://imgur.com/PKFijiq "Optional title")
+![Alt text](/gitprofileimg.png?raw=true "Hello World")
 
 <!--
 **vitormendonca/vitormendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
