@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Alt text](https://ibb.co/JvhbWRX)
 
 <!--
 **vitormendonca/vitormendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
