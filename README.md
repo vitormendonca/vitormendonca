@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Alt text](/gitprofileimg.png?raw=true "Hello World")
 
 <!--
